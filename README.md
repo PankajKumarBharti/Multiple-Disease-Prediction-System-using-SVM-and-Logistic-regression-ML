@@ -4,6 +4,8 @@ A machine learning project to predict the likelihood of multiple diseases (e.g.,
 # Project Overview
 This project aims to provide an easy-to-use system for predicting diseases using machine learning. By analyzing medical datasets, the system offers early diagnosis for:
 
-## Diabetes
-## Heart Disease
-## Parkinson's Disease
+- Diabetes
+- Heart Disease
+- Parkinson's Disease
+
+# Features
